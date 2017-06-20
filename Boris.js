@@ -10,7 +10,7 @@ bot.on('message', function(message){
     message.reply('Soupe de poisson')
   }
   if(message.content==="!main"){
-    message.reply('Torbjorn main !')
+    message.reply('Torbjorne main !')
   }
   if(message.content==="!best"){
     response =['BerceauCarry',"SyDog147","NeatSmurf"]
